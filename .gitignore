@@ -1,3 +1,9 @@
+**/#auto_saved_files#/
+#auto-saved-files#
+Hardware/Core/flight-core/flight-core-backups/
+flight-core-backups/*
+.DS_Store
+
 # KiCad Project Files to Ignore
 *.bak
 *-cache.lib
