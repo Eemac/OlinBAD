@@ -4528,7 +4528,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "untitled.kicad_sch"
+		(property "Sheetfile" "cubeconnect.kicad_sch"
 			(at 193.675 84.4046 0)
 			(effects
 				(font

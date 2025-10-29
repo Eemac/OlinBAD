@@ -4760,7 +4760,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 86.36) (xy 210.82 86.36)
+			(xy 198.12 86.36) (xy 210.82 86.36)
 		)
 		(stroke
 			(width 0)
@@ -4810,7 +4810,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 88.9) (xy 210.82 88.9)
+			(xy 198.12 88.9) (xy 210.82 88.9)
 		)
 		(stroke
 			(width 0)
@@ -10883,7 +10883,7 @@
 		(uuid "36016990-794d-4680-889c-96cf1e41ca5c")
 	)
 	(label "D+"
-		(at 193.04 88.9 180)
+		(at 187.96 88.9 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11033,7 +11033,7 @@
 		(uuid "c8aa8470-e1a2-4cfe-8515-78c00a15b2ef")
 	)
 	(label "D-"
-		(at 193.04 86.36 180)
+		(at 187.96 86.36 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -12237,7 +12237,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 198.12 93.98 0)
+		(at 193.04 93.98 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12245,7 +12245,7 @@
 		(dnp no)
 		(uuid "75b7fc13-c51a-47f3-8d74-b0102fc48c61")
 		(property "Reference" "#PWR025"
-			(at 198.12 100.33 0)
+			(at 193.04 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12254,7 +12254,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 198.12 98.298 0)
+			(at 193.04 98.298 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12262,7 +12262,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 198.12 93.98 0)
+			(at 193.04 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12271,7 +12271,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 198.12 93.98 0)
+			(at 193.04 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12280,7 +12280,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 198.12 93.98 0)
+			(at 193.04 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13581,7 +13581,7 @@
 	)
 	(symbol
 		(lib_id "Power_Protection:USBLC6-2SC6")
-		(at 198.12 86.36 0)
+		(at 193.04 86.36 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13590,7 +13590,7 @@
 		(fields_autoplaced yes)
 		(uuid "fb114002-c86d-474f-9378-4975e90ac80d")
 		(property "Reference" "U3"
-			(at 199.7711 78.74 0)
+			(at 194.6911 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13599,7 +13599,7 @@
 			)
 		)
 		(property "Value" "USBLC6-2SC6"
-			(at 199.7711 81.28 0)
+			(at 194.6911 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13608,7 +13608,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_SMD:SOT-23-6"
-			(at 199.39 92.71 0)
+			(at 194.31 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13619,7 +13619,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/usblc6-2.pdf"
-			(at 199.39 94.615 0)
+			(at 194.31 94.615 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13629,7 +13629,7 @@
 			)
 		)
 		(property "Description" "Very low capacitance ESD protection diode, 2 data-line, SOT-23-6"
-			(at 198.12 86.36 0)
+			(at 193.04 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13659,6 +13659,72 @@
 			(project ""
 				(path "/93f46f4b-cdf5-47ec-af03-96378e73b2e1/91e18f07-bd3f-4576-bbe1-a0227cf7132e"
 					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+5V")
+		(at 193.04 81.28 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fea605b3-2026-4acf-a3b7-a2adb3cfc4cd")
+		(property "Reference" "#PWR028"
+			(at 193.04 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 193.04 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 193.04 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 193.04 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 193.04 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d7b9c664-147d-422d-b71c-08b2dd99cdcb")
+		)
+		(instances
+			(project "flight-core"
+				(path "/93f46f4b-cdf5-47ec-af03-96378e73b2e1/91e18f07-bd3f-4576-bbe1-a0227cf7132e"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
