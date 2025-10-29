@@ -615,184 +615,72 @@
       "Root"
     ],
     [
-      "fca71ade-9cc3-4556-afb4-7d2e828e5053",
-      "Cell Taps, Filtering, and Balancing"
-    ],
-    [
-      "bdad3501-ad60-478a-b8b0-a4d15ec4097b",
-      "Cell12 Filtering and Balancing"
-    ],
-    [
-      "02aead0a-84d0-4607-a9c9-104335ffbfa4",
-      "Cell13 Filtering and Balancing"
-    ],
-    [
-      "234b2737-7387-44f5-8438-0fb2b97007d5",
-      "Cell14 Filtering and Balancing"
-    ],
-    [
-      "e3813560-9d93-404c-a2b5-7c8df1289162",
-      "Cell2 Filtering and Balancing"
-    ],
-    [
-      "96f3c42c-6af4-4b06-8dc7-bfbb0f61eb7f",
+      "f9712816-d0d1-4731-9589-3dc1d67e51f8",
       "Cell1 Filtering and Balancing"
-    ],
-    [
-      "b454f0cd-71b6-45e1-9741-27d4817e743b",
-      "Cell3 Filtering and Balancing"
-    ],
-    [
-      "89e28bbc-d881-4d70-b63c-8d45ddd238c8",
-      "Cell4 Filtering and Balancing"
-    ],
-    [
-      "dd790ce1-07be-4ca9-a875-cff66954280f",
-      "Cell7 Filtering and Balancing"
-    ],
-    [
-      "28d1c055-4ebc-4a80-b06f-113d475fd19c",
-      "Cell5 Filtering and Balancing"
-    ],
-    [
-      "c7a79cba-f7f1-4d0f-8ebb-05f65cde298d",
-      "Cell6 Filtering and Balancing"
-    ],
-    [
-      "7704ef3f-6e20-4f30-ac1b-b9d64434f1b7",
-      "Cell11 Filtering and Balancing"
-    ],
-    [
-      "4a6ba7ca-e1d6-4984-b9b0-2a8d866443f3",
-      "Cell8 Filtering and Balancing"
-    ],
-    [
-      "7802257f-2b73-4e79-b928-b6fbe6741283",
-      "Cell10 Filtering and Balancing"
-    ],
-    [
-      "96df8d3d-51b7-44e9-a215-aee718b75840",
-      "Cell9 Filtering and Balancing"
-    ],
-    [
-      "5ea708a1-bd67-49ec-b183-57872c742b16",
-      "ADBMS"
     ],
     [
       "05829897-ef90-44bc-a038-5de17ebabfde",
       "Thermistors"
     ],
     [
-      "fefe395c-ffa0-4764-a32c-eb570ba4dd6e",
-      "Cell Thermistor14"
+      "826e6c70-848d-4f04-803e-a5eb891d5409",
+      "ADBMS1818"
     ],
     [
-      "4a7f7d77-5d00-4b35-a29c-7770c6a72018",
-      "Cell Thermistor1"
+      "d27232b6-bd63-4149-ad2a-807eac9e6361",
+      "Power"
     ],
     [
-      "604f89d6-00cc-4691-9c53-8a197af9c7d8",
-      "Cell Thermistor2"
+      "291371aa-8f00-485b-b59d-3c659613fdef",
+      "Cell2 Filtering and Balancing"
     ],
     [
-      "c908fbd1-8ee2-4525-9f8e-f70aa88c07df",
-      "Cell Thermistor3"
+      "d46111bc-cccb-419c-90ce-3d65698ee648",
+      "Cell3 Filtering and Balancing"
     ],
     [
-      "86097660-b4cc-43e9-87d1-9edb08119993",
-      "Cell Thermistor4"
+      "c9e0032d-4014-4eee-89ce-a01f9e17c7e7",
+      "Cell4 Filtering and Balancing"
     ],
     [
-      "ac532424-e6e2-43fb-bd04-f0016573e0d9",
-      "Cell Thermistor5"
+      "19704c5a-78bc-41aa-be36-2f34e0d106cb",
+      "Cell5 Filtering and Balancing"
     ],
     [
-      "d9d4c070-9415-4bd1-b312-808bcd9012cd",
-      "Cell Thermistor6"
+      "aaf9f96a-7ddf-4995-af3f-f87e14c8af2d",
+      "Cell6 Filtering and Balancing"
     ],
     [
-      "e065aa21-990f-4f53-b36b-e19b6dc0efac",
-      "Cell Thermistor7"
+      "9e9ff205-786a-4005-8122-23a4d17d9d4f",
+      "Cell7 Filtering and Balancing"
     ],
     [
-      "1d2052dc-3dd2-454d-9bd2-dbb585b1a885",
-      "Cell Thermistor8"
+      "d2d0499b-0d0c-497e-b229-513cca94df20",
+      "Cell8 Filtering and Balancing"
     ],
     [
-      "18d1c6b0-1c60-4d6e-85af-5d6108df672d",
-      "Cell Thermistor9"
+      "2f3b7f9d-db27-4f04-af44-e56cb2c38fbc",
+      "Cell9 Filtering and Balancing"
     ],
     [
-      "6e6df5ac-76d9-42cf-810e-c12ee05f20b0",
-      "Cell Thermistor10"
+      "08939dd6-8002-48a6-bc3c-6d57039b8cb1",
+      "Cell10 Filtering and Balancing"
     ],
     [
-      "50b97cb6-c778-4d40-b88d-7976c735ecec",
-      "Cell Thermistor11"
+      "66a2c798-220f-466d-a17c-351810975fec",
+      "Cell11 Filtering and Balancing"
     ],
     [
-      "31760f4d-f16f-4e95-b101-dbc1d7825092",
-      "Cell Thermistor12"
+      "cca58e24-f26b-4a68-933b-39fd7594f2b8",
+      "Cell12 Filtering and Balancing"
     ],
     [
-      "2530b0f5-058e-4bab-a8e1-b1084cb99269",
-      "Cell Thermistor13"
+      "1776b018-8c42-4ffc-935d-22158017bf2f",
+      "Cell13 Filtering and Balancing"
     ],
     [
-      "7a0302e7-0cba-4620-8c04-547474df523d",
-      "Cell Thermistor15"
-    ],
-    [
-      "7416e745-e4ae-4599-a3ed-b7e9ed98eb31",
-      "Cell Thermistor16"
-    ],
-    [
-      "a5b2f310-af65-4496-9fcd-9969e9bd7d87",
-      "Cell Thermistor17"
-    ],
-    [
-      "209c3142-42ff-4f8a-99be-4466b1eaa6f1",
-      "Cell Thermistor18"
-    ],
-    [
-      "33df5c80-2f68-43bd-8b8f-4deb950e997d",
-      "Cell Thermistor19"
-    ],
-    [
-      "c58e702e-dd44-48cc-baed-e27497eec94e",
-      "Cell Thermistor20"
-    ],
-    [
-      "4bb45b8a-943c-4d82-b732-754c4ceb5b2e",
-      "Cell Thermistor21"
-    ],
-    [
-      "3990a5d5-1d24-4309-b80d-1d712e3e472e",
-      "Cell Thermistor22"
-    ],
-    [
-      "1e4cce7b-f230-47cd-aa7f-b453152867e3",
-      "Cell Thermistor23"
-    ],
-    [
-      "47607b32-5daf-466c-aed2-78b1d93191b8",
-      "Cell Thermistor24"
-    ],
-    [
-      "c6f826bd-6f4b-4fab-a1a0-2a64a4b00b74",
-      "Cell Thermistor25"
-    ],
-    [
-      "a9470d36-403c-4576-9b8b-9039bf8a668e",
-      "Cell Thermistor26"
-    ],
-    [
-      "a180d641-2d8e-4265-b76a-97a9b4e570fd",
-      "Cell Thermistor27"
-    ],
-    [
-      "d1caa6e8-b9e4-4422-a777-9516641f5d58",
-      "Cell Thermistor28"
+      "85847120-5e6c-4155-8ac2-747adc018505",
+      "Cell14 Filtering and Balancing"
     ]
   ],
   "text_variables": {}

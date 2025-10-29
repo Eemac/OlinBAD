@@ -1,4 +1,4 @@
-27291842660630851
+27293604355443467
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,13 @@ audio belton reverb
 0
 7
 7
+BAD_LIB
+21-0139I_T2844-1_MXM
+
+MAX14661ETI+T 
+0
+29
+29
 BAD_LIB
 7461098
 
