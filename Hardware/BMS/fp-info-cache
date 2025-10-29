@@ -1,4 +1,4 @@
-27293604355443467
+27295366058340698
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -34,6 +34,13 @@ BatteryTab
 0
 4
 1
+BAD_LIB
+D0008A_M
+
+TCAN1042VDRQ1 
+0
+8
+8
 BAD_LIB
 NTBLS0D8N08X
 
