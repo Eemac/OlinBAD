@@ -639,8 +639,20 @@
       "Cell2 Filtering and Balancing"
     ],
     [
+      "e1025dcc-ecdc-4fd2-8475-11da7bf22bb3",
+      "Cell Test Points"
+    ],
+    [
+      "b8ebf3ea-bca9-4581-8fa0-11f77ce7e9f6",
+      "Thermistor Test Points"
+    ],
+    [
       "d46111bc-cccb-419c-90ce-3d65698ee648",
       "Cell3 Filtering and Balancing"
+    ],
+    [
+      "e0ab8427-e77b-4bff-9ce4-fd9b0c7b1819",
+      "LEDs"
     ],
     [
       "c9e0032d-4014-4eee-89ce-a01f9e17c7e7",
