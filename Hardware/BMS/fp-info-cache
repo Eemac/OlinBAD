@@ -1,4 +1,4 @@
-27295366058340698
+27297127807805914
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -55,6 +55,13 @@ SOP65P640X120-17N
 0
 17
 17
+BAD_LIB
+SO_011IST_STM-M
+
+TSC2011IST 
+0
+8
+8
 BAD_LIB
 VSSOP-19
 
