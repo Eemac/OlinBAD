@@ -1,1 +1,46 @@
+# General
 .DS_Store
+
+.*.swp
+*~
+*.bak
+*.ignore
+
+# Python
+__pycache__/
+*.egg-info/
+*.egg
+*.python-version
+
+# KiCad
+*.000
+*.bak
+*.bck
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_prl
+*.sch-bak
+_autosave-*
+*.tmp
+*-save.pro
+*-save.kicad_pcb
+fp-info-cache
+*-backups/
+\#auto_saved_files\#
+*.lck
+
+# Netlist files
+*.net
+
+# C files
+*.elf
+*.eep
+*.hex
+
+# libaries handled by symbol converter tool
+oem.kicad_sym
+
+# Fab files
+fab/
+*.csv
+*.xml
